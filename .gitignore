@@ -1,0 +1,17 @@
+# Ambiente virtuale
+.venv/
+
+# File STL generati (binari pesanti)
+*.stl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor
+.vscode/
+*.swp
+
+# File temporanei
+testo
