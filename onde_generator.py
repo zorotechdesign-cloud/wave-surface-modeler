@@ -19,8 +19,8 @@ from matplotlib.colors import LightSource
 # ─────────────────────────────────────────────
 # PARAMETRI MODIFICABILI
 # ─────────────────────────────────────────────
-FIELD_SIZE_X = 160.0   # mm
-FIELD_SIZE_Y = 160.0   # mm
+FIELD_SIZE_X = 200.0   # mm
+FIELD_SIZE_Y = 200.0   # mm
 RES_PREVIEW  = 100     # punti per lato nella preview
 RES_EXPORT   = 300     # punti per lato nello STL esportato
 SEED         = 42      # seme random per il noise
