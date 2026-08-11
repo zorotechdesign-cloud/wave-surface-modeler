@@ -15,3 +15,5 @@ __pycache__/
 
 # File temporanei
 testo
+.uv-cache/
+.preview_validation.png
